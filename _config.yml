@@ -22,21 +22,21 @@ authorTwitter:  'YourTwitterUsername'
 permalink:       /:year/:title/
 
 defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+  -
+    scope:
+      path: "" # Empty string for all files
+      type: pages
+    values:
+      layout: default
+  -
+    scope:
+      path: "" # Empty string for all files
+      type: posts
+    values:
+      layout: post
+  -
+    scope:
+      path: ""
+      type: drafts
+    values:
+      layout: post
