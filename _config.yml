@@ -1,5 +1,5 @@
-name: Your awesome name
-description: Your awesome description.
+name: Dan Kim
+description: Thoughts, stories and ideas.
 
 aboutPage: true
 
@@ -7,18 +7,18 @@ markdown: redcarpet
 highlighter: pygments
 
 gems: [jekyll-paginate]
-paginate: 20
+paginate: 10
 
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://itsdan.me'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url: 'http://your-blog-url.example.com'
-author: Your Name
-authorTwitter: jekyllrb
+url: 'http://itsdan.me'
+author: Dan Kim
+authorTwitter: danwatney
 
 permalink: /:year/:title/
 
