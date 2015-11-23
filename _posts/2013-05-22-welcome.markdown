@@ -1,0 +1,15 @@
+---
+title:  "Welcome!"
+date:   2013-05-22
+description: Hello, world!
+---
+
+This is the first post!
+
+```ruby
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Dan')
+#=> prints 'Hi, Dan' to STDOUT.
+```
