@@ -63,6 +63,7 @@ gem 'devise'
 ```
 
 And install it:
+
 ```bash
 $ bundle install
 ```
@@ -137,6 +138,7 @@ $ rails generate scaffold_controller admin/posts
 ```
 
 This is the output of scaffold controller. We can see, that there were no models and migrations created:
+
 ```bash
 create  app/controllers/admin/posts_controller.rb
 invoke  erb
