@@ -1,8 +1,5 @@
 name: Your awesome name
-description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Your awesome description.
 
 aboutPage: true
 
@@ -20,8 +17,8 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url: 'http://your-blog-url.example.com'
-author: 'Your Name'
-authorTwitter: 'YourTwitterUsername'
+author: Your Name
+authorTwitter: jekyllrb
 
 permalink: /:year/:title/
 
