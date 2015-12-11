@@ -15,6 +15,9 @@ google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
+sass:
+  sass_dir: assets/_sass
+
 # Details for the RSS feed generator
 url: 'http://itsdan.me'
 author: Dan Kim
