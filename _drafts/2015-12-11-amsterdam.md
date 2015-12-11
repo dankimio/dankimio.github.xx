@@ -1,5 +1,6 @@
 ---
 layout: post
+gallery: true
 title: Amsterdam – 2015
 date: 2015-12-11
 description: Trip to Amsterdam in August 2015
