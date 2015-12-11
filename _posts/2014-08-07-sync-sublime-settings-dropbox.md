@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sync Sublime Text settings using Dropbox
-categories: blog
 description: Use Sublime Text across multiple devices.
 ---
 

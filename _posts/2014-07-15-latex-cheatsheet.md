@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LaTeX cheatsheet
-categories: blog
 description: Save time with these tips.
 ---
 

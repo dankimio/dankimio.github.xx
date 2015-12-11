@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Cyrillic fonts in LaTeX
-categories: blog
 description: Enable cyrillyc fonts in LaTeX.
 ---
 

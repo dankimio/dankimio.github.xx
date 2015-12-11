@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mutual Friendship in Rails
-categories: blog
 description: Add Facebook-like friendships to your Rails app.
 ---
 

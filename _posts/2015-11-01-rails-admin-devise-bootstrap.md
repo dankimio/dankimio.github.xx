@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How to set up admin area in Rails with Devise and Bootstrap
-categories: blog
 description: Build an admin area from scratch.
 ---
 

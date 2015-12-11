@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Terminal shortcuts
-categories: blog
 description: Some handy shortcuts to save your time.
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Set up CloudFlare with DigitalOcean
-categories: blog
 description: Use CloudFlare to manage your domains.
 ---
 

@@ -23,7 +23,7 @@ url: 'http://itsdan.me'
 author: Dan Kim
 authorTwitter: danwatney
 
-permalink: /:year/:title/
+permalink: /:categories/:title
 
 defaults:
   -

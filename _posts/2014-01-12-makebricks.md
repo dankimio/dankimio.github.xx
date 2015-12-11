@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MakeBricks problem
-categories: blog
 description: Programming challenge.
 ---
 
