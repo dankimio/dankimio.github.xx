@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About
-permalink: about/
+permalink: /about/
 profile: true
 ---
+
 My name's Dan, and I'm a backend and mobile app developer. Currently I work and live in Moscow. This is my blog where I post mostly about software development and traveling.
 
 You can find me on the internet:
