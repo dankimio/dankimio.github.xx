@@ -55,7 +55,6 @@ Anne Franke House
 ![](/images/2015/amsterdam/AMS_033.jpg)
 
 Sunset
-![](/images/2015/amsterdam/AMS_035.jpg)
 ![](/images/2015/amsterdam/AMS_036.jpg)
 ![](/images/2015/amsterdam/AMS_038.jpg)
 ![](/images/2015/amsterdam/AMS_039.jpg)
@@ -64,6 +63,8 @@ Sunset
 ![](/images/2015/amsterdam/AMS_042.jpg)
 ![](/images/2015/amsterdam/AMS_043.jpg)
 ![](/images/2015/amsterdam/AMS_034.jpg)
+![](/images/2015/amsterdam/AMS_063.jpg)
+![](/images/2015/amsterdam/AMS_062.jpg)
 
 Amsterdam panorama
 ![](/images/2015/amsterdam/AMS_044.jpg)
