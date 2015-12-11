@@ -111,11 +111,21 @@ nav.main-nav {
   max-width: 720px;
   margin: 0 auto;
   padding: 60px 40px 100px 40px;
+
   &.home {
     max-width: 600px;
     margin: 0 auto;
     padding: 0px 40px 20px 40px;
   }
+}
+
+.gallery #post-body p {
+	padding-left: 5em;
+	padding-right: 5em;
+
+	width: 100vw;
+	position: relative;
+	left: calc(-50vw + 50%);
 }
 
 .home #avatar {
