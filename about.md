@@ -8,9 +8,10 @@ My name's Dan, and I'm a backend and mobile app developer. Currently I work and 
 
 You can find me on the internet:
 
-- [Twitter](https://twitter.com/danwatney)
+- [Twitter](https://twitter.com/itsdnco)
 - [Instagram](https://instagram.com/itsdn)
-- [GitHub](https://github.com/itsdan)
+- [GitHub](https://github.com/itsdn)
+- [Email](mailto:yo@itsdn.co)
 
 ## Skills
 
