@@ -20,13 +20,12 @@ Amsterdam canals
 
 Museum square and Van Gogh Museum
 ![](/images/2015/amsterdam/AMS_006.jpg)
-![](/images/2015/amsterdam/AMS_007.jpg)
 ![](/images/2015/amsterdam/AMS_009.jpg)
+![](/images/2015/amsterdam/AMS_007.jpg)
 
 Apple Store
 ![](/images/2015/amsterdam/AMS_015.jpg)
 ![](/images/2015/amsterdam/AMS_016.jpg)
-
 
 Amsterdam streets
 ![](/images/2015/amsterdam/AMS_008.jpg)
@@ -34,6 +33,8 @@ Amsterdam streets
 ![](/images/2015/amsterdam/AMS_013.jpg)
 ![](/images/2015/amsterdam/AMS_017.jpg)
 ![](/images/2015/amsterdam/AMS_018.jpg)
+
+The American Book Store
 ![](/images/2015/amsterdam/AMS_019.jpg)
 
 Amsterdam Public Library
@@ -45,10 +46,9 @@ Amsterdam Public Library
 ![](/images/2015/amsterdam/AMS_025.jpg)
 ![](/images/2015/amsterdam/AMS_026.jpg)
 ![](/images/2015/amsterdam/AMS_027.jpg)
-![](/images/2015/amsterdam/AMS_028.jpg)
 ![](/images/2015/amsterdam/AMS_030.jpg)
-
 ![](/images/2015/amsterdam/AMS_029.jpg)
+![](/images/2015/amsterdam/AMS_028.jpg)
 
 Anne Franke House
 ![](/images/2015/amsterdam/AMS_032.jpg)
