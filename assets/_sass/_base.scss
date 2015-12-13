@@ -117,19 +117,10 @@ nav.main-nav {
     margin: 0 auto;
     padding: 0px 40px 20px 40px;
   }
-}
 
-.gallery #post-body p {
-	padding-left: 5em;
-	padding-right: 5em;
-
-	width: 100vw;
-	position: relative;
-	left: calc(-50vw + 50%);
-}
-
-.gallery #post-body p {
-	max-width: 1400px;
+	&.gallery {
+		max-width: 1200px;
+	}
 }
 
 .home #avatar {
