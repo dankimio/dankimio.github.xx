@@ -3,7 +3,7 @@ layout: post
 gallery: true
 title: Amsterdam – 2015
 date: 2015-12-11
-description: Trip to Amsterdam in August 2015
+description: A trip to Amsterdam in August 2015
 categories: photos
 ---
 
@@ -67,7 +67,6 @@ Sunset
 ![](/images/2015/amsterdam/AMS_062.jpg)
 
 Amsterdam panorama
-![](/images/2015/amsterdam/AMS_044.jpg)
 ![](/images/2015/amsterdam/AMS_046.jpg)
 ![](/images/2015/amsterdam/AMS_047.jpg)
 ![](/images/2015/amsterdam/AMS_048.jpg)
