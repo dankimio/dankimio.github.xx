@@ -38,12 +38,17 @@ The favorite TV series of 2015:
 - Gravity Falls. The final episode is still to be announced, but even now I can already tell how this series broke all my expectations. Definitely 10/10.
 - Fargo – 10/10.
 - Game of Thrones – 10/10 (as usual).
+- True Detective – 9/10.
 - Rick and Morty – 9/10.
 
 <p class="img-inline img-inline-sm">
-  <img src="/images/2015/a-year-in-review/gravity-falls.jpg" alt="">
   <img src="/images/2015/a-year-in-review/fargo.jpg" alt="">
   <img src="/images/2015/a-year-in-review/game-of-thrones.jpg" alt="">
+  <img src="/images/2015/a-year-in-review/true-detective.jpg" alt="">
+</p>
+
+<p class="img-inline img-inline-sm">
+  <img src="/images/2015/a-year-in-review/gravity-falls.jpg" alt="">
   <img src="/images/2015/a-year-in-review/rick-and-morty.jpg" alt="">
 </p>
 
