@@ -66,13 +66,13 @@ Top albums:
 - Blurryface by twenty one pilots. The discovery of the year. There's no genre that fits into their music, the music that makes you think, the variety of styles amazes. Actually, this is the first album that I liked completely (I mean all songs).
 - Magnifique by Ratatat
 - Gold Shadow by Asaf Avidan
-- Currents by Tame Impala
+- Art Angels by Grimes
 
 <p class="img-inline img-inline-md">
   <img src="/images/2015/a-year-in-review/blurryface.jpg" alt="Blurryface">
   <img src="/images/2015/a-year-in-review/magnifique.jpg" alt="Magnifique">
   <img src="/images/2015/a-year-in-review/gold-shadow.jpg" alt="Gold Shadow">
-  <img src="/images/2015/a-year-in-review/currents.jpg" alt="Currents">
+  <img src="/images/2015/a-year-in-review/art-angels.jpg" alt="Art Angels">
 </p>
 
 I also picked up a ukulele this year. Heavily inspired by twenty one pilots and Tyler Joseph. So, maybe I'll record a few covers the next year.
