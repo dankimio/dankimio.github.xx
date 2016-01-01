@@ -29,8 +29,8 @@ You can find me on the internet:
 
 ## Projects
 
-- [acts\_as\_learnable](https://github.com/itsdan/acts_as_learnable) – an open-source library for creating flashcards in Ruby.
-- [kactus-pro]() – A redesign of Jekyll theme, it is used on this blog.
+- [acts\_as\_learnable](https://github.com/itsdn/acts_as_learnable) – an open-source library for creating flashcards in Ruby.
+- [cactus-jekyll](https://github.com/itsdn/cactus-jekyll) – A redesign of Jekyll theme, it is used on this blog.
 
 ## Education
 
