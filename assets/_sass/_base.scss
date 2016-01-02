@@ -152,6 +152,10 @@ ul, ol {
 
 li	{
 	list-style-type:circle;
+
+	& > ul {
+		margin-bottom: 0;
+	}
 }
 
 // Tables
