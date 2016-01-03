@@ -20,14 +20,14 @@ My personal favorites of 2015 are:
 - Youth
 - Mad Max: Fury Road
 - Star Wars: The Force Awakens
-- The Martian
+- Me and Earl and the Dying Girl
 - And I am still about to watch `Inside Out`, `The Bridge of Spies` and other movies.
 
 <p class="img-inline img-inline-sm">
   <img src="/images/2015/a-year-in-review/youth.jpg" alt="Youth">
   <img src="/images/2015/a-year-in-review/mad-max-fury-road.jpg" alt="Mad Max: Fury Road">
   <img src="/images/2015/a-year-in-review/star-wars-the-force-awakens.jpg" alt="Star Wars: The Force Awakens">
-  <img src="/images/2015/a-year-in-review/the-martian.jpg" alt="The Martian">
+  <img src="/images/2015/a-year-in-review/me-and-earl-and-the-dying-girl.jpg" alt="Me and Earl and the Dying Girl">
 </p>
 
 ## TV Shows
