@@ -5,6 +5,8 @@ description: Thoughts, stories and ideas.
 aboutPage: true
 
 markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
 highlighter: pygments
 
 gems: [jekyll-paginate]
