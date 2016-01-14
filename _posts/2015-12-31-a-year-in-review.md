@@ -53,7 +53,7 @@ The favorite TV series of 2015:
 </p>
 
 ## Books
-2015 was the busiest year I ever had in my life. In the beginning of the year I set a goal on Goodreads to read 50 books in 2015. Only managed to reach the half of the goal though. I mostly read classics this year, also a lot of programming-related books. In 2016, however, I plan to add some variety: business, science fiction, fantasy etc. The Martian by Andy Weir was the favorite book of 2015. Read it first if you plan to watch the movie.
+2015 was the busiest year I ever had in my life. At the beginning of the year, I set a goal on Goodreads to read 50 books in 2015. Only managed to reach the half of the goal, though. I mostly read classics this year, also a lot of programming-related books. In 2016, however, I plan to add some variety: business, science fiction, fantasy etc. The Martian by Andy Weir was the favorite book of 2015. Read it first if you plan to watch the movie.
 
 ## Traveling
 This year I visited the Netherlands. I realized that this is probably the place where I want to live and work in. Read my [Amsterdam](/photos/amsterdam) post for more details, I also plan to publish the photos from Rotterdam and The Hague.
@@ -84,7 +84,7 @@ I also picked up a ukulele this year. Heavily inspired by twenty one pilots and 
 
 ## Podcasts
 - [Cortex](https://www.relay.fm/cortex). CGP Grey and Myke Hurley discuss productivity (and many other things as well). There's nothing special in the podcast but it's just so interesting to listen to, that it has become my favorite. Definitely recommend.
-- [Under the Radar](https://www.relay.fm/radar). I stopped listening to Accidental Tech Podcast because the episodes were too long (up to 2 hours), very few development related topics and I just didn't have time to listen. I was already listening to Developer Perspective by David Smith: I really liked the format of short 15 minute episodes. And then Under the Radar comes out: just 30 minutes of developer-related talks from David Smith and Marco Arment. Perfect.
+- [Under the Radar](https://www.relay.fm/radar). I stopped listening to Accidental Tech Podcast because the episodes were too long (up to 2 hours), very few development related topics and I just didn't have time to listen. I was already listening to Developer Perspective by David Smith: I really liked the format of short 15-minute episodes. And then Under the Radar comes out: just 30 minutes of developer-related talks from David Smith and Marco Arment. Perfect.
 - If I could recommend just one episode it would be The Developer on Fire episode – [The Pareto Principle and Stoic Philosophy with David Heinemeier Hansson](http://developeronfire.com/Podcast/Episodes/david-heinemeier-hansson-the-pareto-principle-and-stoic-philosophy).
 
 <p class="img-inline img-inline-lg">
@@ -106,7 +106,7 @@ I also picked up a ukulele this year. Heavily inspired by twenty one pilots and 
 - [I don’t want to be a winner](https://signalvnoise.com/posts/3977-i-dont-want-to-be-a-winner)
 - [Dialing Down](http://www.cgpgrey.com/blog/dialing-down)
 - [The day I became a millionaire](https://m.signalvnoise.com/the-day-i-became-a-millionaire-55d7dc4d8293)
-- And I'd like to highlight one article: [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm). A must read. Doesn't matter whether you're a designer or a developer or someone else.
+- And I'd like to highlight one article – [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm). A must read. Doesn't matter whether you're a designer or a developer or someone else.
 
 ## Goals for 2016
 - Write `Goals for 2016` post.
