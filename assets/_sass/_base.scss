@@ -108,7 +108,6 @@ nav.main-nav {
 }
 
 #wrapper {
-  max-width: 720px;
   margin: 0 auto;
   padding: 60px 40px 100px 40px;
 
@@ -118,8 +117,8 @@ nav.main-nav {
     padding: 0px 40px 20px 40px;
   }
 
-	&.gallery {
-		max-width: 1200px;
+	&.story {
+		max-width: 720px;
 	}
 }
 

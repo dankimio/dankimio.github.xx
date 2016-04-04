@@ -96,6 +96,18 @@
   }
 }
 
+.gallery {
+  .story-content {
+    width: 42em;
+    margin: 0em auto 0em;
+  }
+
+  .photoset {
+    max-width: 1200px;
+    margin: 0 auto 3em;
+  }
+}
+
 #post-meta {
   font-size: 13px;
   font-weight: bold;

@@ -11,7 +11,7 @@
       {% include profile.html %}
     {% endif %}
 
-    <section id="wrapper"{% if page.profile %} class="home"{% endif %} {% if page.gallery %} class="gallery"{% endif %}>
+    <section id="wrapper"{% if page.profile %} class="home"{% endif %} {% if page.gallery %} class="gallery"{% else %} class="story" {% endif %}>
       {{ content }}
     </section>
 

@@ -44,3 +44,13 @@
     }
   }
 }
+
+@media screen and (max-width: 1000px) {
+  .gallery .story-content {
+    width: 100%;
+  }
+
+  .gallery .photoset {
+    width: 100%;
+  }
+}
