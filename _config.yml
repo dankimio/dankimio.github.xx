@@ -9,6 +9,7 @@ highlighter: rouge
 
 gems: [jekyll-paginate]
 paginate: 10
+paginate_path: "page-:num"
 
 baseurl: ""
 url: "http://itsdn.co"
