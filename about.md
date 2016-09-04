@@ -9,10 +9,10 @@ My name's Dan, and I'm a backend and mobile app developer. Currently I work and 
 
 You can find me on the internet:
 
-- [Twitter](https://twitter.com/itsdnco)
-- [Instagram](https://instagram.com/itsdn)
-- [GitHub](https://github.com/itsdn)
-- [Email](mailto:yo@itsdn.co)
+- [Twitter](https://twitter.com/dankimio)
+- [Instagram](https://instagram.com/dankimio)
+- [GitHub](https://github.com/dankimio)
+- [Email](mailto:itsdanya@gmail.com)
 
 ## Skills
 
@@ -29,8 +29,8 @@ You can find me on the internet:
 
 ## Projects
 
-- [acts\_as\_learnable](https://github.com/itsdn/acts_as_learnable) – an open-source library for creating flashcards in Ruby.
-- [cactus-jekyll](https://github.com/itsdn/cactus-jekyll) – A redesign of Jekyll theme, it is used on this blog.
+- [acts\_as\_learnable](https://github.com/dankimio/acts_as_learnable) – an open-source library for creating flashcards in Ruby.
+- [cactus-jekyll](https://github.com/dankimio/cactus-jekyll) – A redesign of Jekyll theme, it is used on this blog.
 
 ## Education
 
