@@ -14,7 +14,7 @@ I hope you find it interesting.
 
 Here's solution in Ruby (one of the possible solutions)
 
-{% highlight ruby %}
+```ruby
 def make_bricks(small, big, goal)
   if goal > small + big * 5
     false
@@ -22,4 +22,4 @@ def make_bricks(small, big, goal)
     goal % 5 <= small
   end
 end
-{% endhighlight %}
+```
