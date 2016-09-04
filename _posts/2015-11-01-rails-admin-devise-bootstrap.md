@@ -308,13 +308,11 @@ We want to keep our admin and application layouts separated. Admin dashboard wil
   <%= yield %>
 </div>
 
-<%= render 'layouts/footer' %>
-
 </body>
 </html>
 ```
 
-Header and footer partials:
+Header partial:
 
 ```html
 <%# app/views/layouts/_header.erb %>
@@ -352,44 +350,10 @@ Header and footer partials:
 </nav>
 ```
 
-```html
-<%# app/views/layouts/_footer.erb %>
-<footer class="footer">
-  <div class="container">
-    <p class="text-muted">&copy; 2015 Awesome Blog</p>
-  </div>
-</footer>
-```
-
-This layout includes meta tags required by Bootstrap to preserve compatibility and to enable responsiveness on mobile devices. It is also important to have a container for flash messages, this container uses `alert` Bootstrap class. Footer requires additional CSS code and to accomplish this we will create a separate stylesheet file that will be imported in `application.scss` file. Notice that I have also added code for flash alerts to match Bootstrap classes. For example, notice alert will have `alert-info` class.
+This layout includes meta tags required by Bootstrap to preserve compatibility and to enable responsiveness on mobile devices. It is also important to have a container for flash messages, this container uses `alert` Bootstrap class. I have also added code to `custom.scss` for flash alerts to match Bootstrap classes: notices will have `alert-info` class.
 
 ```scss
 // app/assets/stylesheets/custom.scss
-// Sticky footer styles
-html {
-  position: relative;
-  min-height: 100%;
-}
-
-body {
-  // Margin bottom by footer height
-  margin-bottom: 60px;
-}
-
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  // Set the fixed height of the footer here
-  height: 60px;
-  background-color: #f5f5f5;
-}
-
-// Custom page CSS. Not required for template or sticky footer method.
-.container .text-muted {
-  margin: 20px 0;
-}
-
 // Alerts
 .alert-notice {
   @extend .alert-info !optional;
