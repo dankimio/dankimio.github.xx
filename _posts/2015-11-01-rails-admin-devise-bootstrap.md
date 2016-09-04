@@ -53,6 +53,7 @@ end
 ```
 
 ## Devise
+
 ### Installation
 Then, we will add Devise:
 
