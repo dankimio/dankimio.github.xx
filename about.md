@@ -10,8 +10,9 @@ My name's Dan, and I'm a backend and mobile app developer. Currently I work and 
 You can find me on the internet:
 
 - [Twitter](https://twitter.com/dankimio)
-- [Instagram](https://instagram.com/dankimio)
+- [Instagram](https://www.instagram.com/dankimio/)
 - [GitHub](https://github.com/dankimio)
+- [Telegram](https://telegram.me/dankimio)
 - [Email](mailto:itsdanya@gmail.com)
 
 ## Skills
